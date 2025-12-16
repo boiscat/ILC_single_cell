@@ -1,0 +1,35 @@
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+*.Rproj
+
+# Common large data / intermediate artifacts (keep code)
+data/
+!data/README.md
+**/*.rds
+**/*.RDS
+**/*.qs
+**/*.h5
+**/*.h5ad
+**/*.loom
+**/*.mtx
+**/*.mtx.gz
+**/*.bam
+**/*.bam.bai
+**/*.fastq
+**/*.fastq.gz
+**/*.fq
+**/*.fq.gz
+
+# Python/Conda
+__pycache__/
+*.pyc
+.venv/
+.conda/
+.mamba/
+
+# OS
+.DS_Store
+Thumbs.db
+
