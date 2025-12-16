@@ -1,0 +1,22 @@
+name: pso-analysis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - r-base=4.3
+  - r-remotes
+  - r-optparse
+  - r-tidyverse
+  - r-seurat
+  - r-future
+  - r-patchwork
+  - r-rcolorbrewer
+  - r-scales
+  - r-circlize
+  - r-png
+  - r-glue
+  - bioconductor-clusterprofiler
+  - bioconductor-enrichplot
+  - bioconductor-org.hs.eg.db
+
