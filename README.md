@@ -1,7 +1,7 @@
 # Data availability
 
-The raw data used in this study were obtained from the ArrayExpress database at EMBL-EBI under accession E-MTAB-8142 (https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-8142/), and the analyses were restricted to CD45⁺ cells。所用样本可参考sample_information
-
+The raw transcriptomic data for this study were retrieved from the EMBL-EBI ArrayExpress database under accession number E-MTAB-8142. To focus on the immune landscape, subsequent downstream analyses were specifically restricted to the CD45⁺ cell population. Detailed metadata regarding the samples utilized in this research are available in the [sample_information
+](https://github.com/boiscat/ILC_single_cell/blob/main/sample_information)
 
 # Analysis Scripts Pack (R)
 
