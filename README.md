@@ -1,15 +1,13 @@
 # Data availability
 
-The raw data used in this study were obtained from the ArrayExpress database at EMBL-EBI under accession E-MTAB-8142 (https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-8142/
-), and the analyses were restricted to CD45⁺ cells.
-
+The raw data used in this study were obtained from the ArrayExpress database at EMBL-EBI under accession E-MTAB-8142 (https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-8142/), and the analyses were restricted to CD45⁺ cells。所用样本可参考sample_information
 
 
 # Analysis Scripts Pack (R)
 
 This repository is a packaged snapshot of a set of R analysis scripts (Seurat / Harmony / CellChat / enrichment), organized for GitHub sharing and reproducible execution.
 
-## What’s included
+## What's included
 
 - R scripts copied from the original working directory using `tt` as the source list
 - A traceable manifest (`MANIFEST.tsv`) and checksums (`CHECKSUMS.md5`, `CHECKSUMS.sha256`)
@@ -70,5 +68,3 @@ Input data files are **not included**. See `docs/DATA.md` for where to put data 
 See `docs/GITHUB.md` (step-by-step).
 
 ---
-
-
