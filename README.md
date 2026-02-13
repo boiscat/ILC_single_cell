@@ -1,3 +1,6 @@
+# Study Overview
+Innate lymphoid cells (ILCs) are critical regulators of immune homeostasis in barrier tissues, yet the mechanisms underlying this balance are not fully elucidated. This study identifies a subset of CD73⁺ ILCs that plays a protective role in skin and colonic inflammation.
+
 # Data availability
 
 The raw transcriptomic data for this study were retrieved from the EMBL-EBI ArrayExpress database under accession number E-MTAB-8142. To focus on the immune landscape, subsequent downstream analyses were specifically restricted to the CD45⁺ cell population. Detailed metadata regarding the samples utilized in this research are available in the [sample_information
