@@ -30,18 +30,3 @@ mamba activate pso-analysis
 ```bash
 Rscript env/install.R
 ```
-
-3) Basic syntax check (does not run analysis):
-
-```bash
-Rscript tests/package-test-function-20251216/01-ParseAllR-20251216.R
-```
-
-
-```
-
-- For pipeline scripts under `scripts/`, run from the repository root:
-
-```bash
-Rscript scripts/prep/01-sample-site-extract-20251108.R
-```
