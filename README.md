@@ -8,7 +8,7 @@ The raw transcriptomic data for this study were retrieved from the EMBL-EBI Arra
 
 # Analysis Scripts Pack (R)
 
-This repository is a packaged snapshot of a set of R analysis scripts (scRNA-seq Clustering & UMAP / Cell Proportion & Differential Expression / Cell-Cell Communication / Pathway Enrichment), organized for GitHub sharing and reproducible execution.
+This repository is a packaged snapshot of a set of R analysis scripts (scRNA-seq Clustering & UMAP / Cell Proportion & Differential Expression / Cell-Cell Communication / Pathway Enrichment / Plot), organized for GitHub sharing and reproducible execution.
 
 
 ## Environment
